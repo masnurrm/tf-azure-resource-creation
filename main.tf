@@ -1,4 +1,4 @@
-# Menyediakan Azure sebagai provider
+# Menyediakan Azure sebagai provider saat ini
 terraform {
   required_version = ">=0.12"
 
